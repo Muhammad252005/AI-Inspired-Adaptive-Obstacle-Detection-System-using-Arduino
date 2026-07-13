@@ -39,7 +39,7 @@ This project was developed to demonstrate the following embedded systems concept
 
 # Project Demonstration
 
-![circuit_diagram]()
+![circuit_diagram](images/aicd.jfif)
 The repository includes images illustrating both the hardware setup and the system's operational behavior.
 
 ### System Setup
@@ -136,7 +136,7 @@ The buzzer produces progressively stronger warning patterns as obstacle proximit
 
 # Source Code
 
-The complete Arduino source [code]() for this project is available within this repository.
+The complete Arduino source [code](code/Adaptive_Obstacle_Detection_System.ino) for this project is available within this repository.
 
 ---
 
