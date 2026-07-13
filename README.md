@@ -48,7 +48,7 @@ The hardware assembly demonstrates the integration of the ultrasonic sensor, ser
 
 ### Output Behavior
 
-![circuit_diagram]()
+![circuit_diagram](images/arduino_ai_bootcamp_project_1_image3.jpg)
 The system provides real-time visual and audible feedback corresponding to the detected obstacle distance and classified safety zone.
 
 ---
